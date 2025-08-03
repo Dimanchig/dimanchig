@@ -4,8 +4,7 @@
 # Привет, я Димон
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimanchig&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimanchig&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimanchig&hide_progress=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dimanchig&theme=react-dark)
 
-## Контакты  
-[![Telegram](https://img.shields.io/badge/Telegram-@твой_ник-2CA5E0?style=flat&logo=telegram)](https://t.me/твой_ник)  
+
